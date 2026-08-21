@@ -457,7 +457,8 @@ Before inserting sensor in soil:
 
 After inserting sensor in soil:
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3a867184-6664-4336-91ae-7cbb44438216" />
+<img width="1897" height="966" alt="Screenshot 2026-08-06 105258" src="https://github.com/user-attachments/assets/e05b9c8c-2c20-4658-b006-5cdd53b51911" />
+
 
  
 ## Result :
